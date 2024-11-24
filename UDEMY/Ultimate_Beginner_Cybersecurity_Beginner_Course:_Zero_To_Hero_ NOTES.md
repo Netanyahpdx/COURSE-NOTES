@@ -1,45 +1,43 @@
 # UDEMY COURSE: ULTIMATE CYBERSECURITY BEGINNER COURSE: ZERO TO HERO
+***
+[**LINK TO THE CLASS:**](https://www.udemy.com/share/109BS63@jatrsGdLBFqnrzo-0WLf5sBzzc2oj319AnMCs0XOqVLB42MbRf9jlFkJrDuYafNIpQ==/)
 
-**LINK:** https://www.udemy.com/share/109BS63@jatrsGdLBFqnrzo-0WLf5sBzzc2oj319AnMCs0XOqVLB42MbRf9jlFkJrDuYafNIpQ==/
-FREE COURSE, NO CERTIFICATE
-___
-___
-___
+__***FREE COURSE, NO CERTIFICATE***__
 
-## 1. INTRODUCTION
+***
 
-**MODULE 1. INTRODUCTION TO CYBERSECURITY:**
-*- Understanding CS basics of keeping digital info secure.* 
-*- Importance of CS. Why CS is crucial.*
-*- Cyber Threat Landscape: Overview of online threats and risks.* 
+## 1. INTRODUCTION:
 
-**MODULE 2. CORE CYBERSECURITY CONCEPTS:**
-*- Confidentiality, Integrity and Availability (CIA): Protecting data's secrecy, accuracy and accessibility*
-*- Defense in Depth: Layered security to guard against attacks.*
-*- Threats, Vulnerabilities, and Risks: Identifying dangers and weaknesses.*
+**MODULE 1.  INTRODUCTION TO CYBERSECURITY:**  
+*- Understanding CS basics of keeping digital info secure.*  
+*- Importance of CS. Why CS is crucial?*  
+*- Cyber Threat Landscape: Overview of online threats & risks.* 
 
-**MODULE 3. SECURITY POLICIES & PROCEDURES:**
-*- Developing Security Policies: Creating rules to safeguard data.*
-*- User Awareness Training: Teaching people to recognize and respond to threats.*
-*- Incident Response and Reporting: Steps to take when a security incident occurs.*
+**MODULE 2. CORE CYBERSECURITY CONCEPTS:**  
+*- Confidentiality, Integrity & Availability (CIA): Protecting data's secrecy, accuracy & accessibility*    
+*- Defense in Depth: Layered security to guard against attacks.*    
+*- Threats, Vulnerabilities, & Risks: Identifying dangers & weaknesses.*    
 
-**MODULE 4. NETWORK SECURITY:**
-*-Network Security Fundamentals: How to secure data as it travels.*
-*- Firewalls and Intrusion Detection Systems: Using digital barriers and alarms to block intruders.*
-*- Wireless Network Security: Ensuring WIFI connections are safe from unauthorized access.*
+**MODULE 3. SECURITY POLICIES & PROCEDURES:**  
+*- Developing Security Policies: Creating rules to safeguard data.*  
+*- User Awareness Training: Teaching people to recognize & respond to threats.*  
+*- Incident Response & Reporting: Steps to take when a security incident occurs.*   
 
-**MODULE 5. SECURITY TECHNOLOGIES:**
-*- Encryption and Cryptography: The use of secret codes to keep information private. 
-*- Antivirus and Anti-malware: Software that detects and removes digital threats.*
-*- Access Control and Authentication: Managing access and verifying identities.*
+**MODULE 4. NETWORK SECURITY:**  
+*-Network Security Fundamentals: How to secure data as it travels.*  
+*- Firewalls and Intrusion Detection Systems: Using digital barriers and alarms to block intruders.*  
+*- Wireless Network Security: Ensuring WIFI connections are safe from unauthorized access.*  
 
-**MODULE 6. EMERGING TRENDS AND BEST PRACTICES:**
-*- Cloud Security: Protecting data stored in the cloud.*
-*- Internet of Things (IoT) Security: Ensuring the security of IoTs.
-*- Cybersecurity Best Practices: Following top strategies to be safe online.*
+**MODULE 5. SECURITY TECHNOLOGIES:**  
+*- Encryption & Cryptography: The use of secret codes to keep information private.*   
+*- Antivirus & Anti-malware: Software that detects & removes digital threats.*  
+*- Access Control & Authentication: Managing access & verifying identities.*  
 
----
----
+**MODULE 6. EMERGING TRENDS AND BEST PRACTICES:**  
+*- Cloud Security: Protecting data stored in the cloud.*  
+*- Internet of Things (IoT) Security: Ensuring the security of IoTs.*  
+*- Cybersecurity Best Practices: Following top strategies to be safe online.*  
+
 ---
 
 ## 2. UNDERSTANDING CYBERSECURITY:
@@ -55,19 +53,18 @@ ___
 - Understanding the fundamentals of *__CS__* is the first step in building a secure digital environment. 
 
 ---
----
----
 
 ## 3. THE IMPORTANCE OF CYBERSECURITY:
 
-<INSERT DIAGRAM WHEEL THING HERE>
 
+![number three importance of cs ](https://github.com/user-attachments/assets/e13e0cea-b09d-46d0-bb07-a3bac5168beb)
 
-**NOTES ON THE IMPORTANCE OF CYBERSECURITY:**
+  
+  **NOTES ON THE IMPORTANCE OF CYBERSECURITY:**
 - **_CS_** is crucial for safeguarding digital info.
 - It protects against financial losses and damge to reputation.
 - Increasing connectivity increases the risk of cyberattacks.
-- Organizations need *__CS_** to gain trust and follow regulations. 
+- Organizations need *__CS__* to gain trust and follow regulations. 
 - Cyber threats constantly evolve, making proactive measures vital.
 - Breaches can lead to data theft, financial loss, and operational reputation. 
 - Governments use **_CS_** to protect national security and citizens.
@@ -75,12 +72,9 @@ ___
 - **_CS_** requires continuous learning and adaptation. 
 
 ---
----
----
 
 ## 4. CYBER THREAT LANDSCAPE:
-
-<INSERT DIAGRAM HERE>
+![RISK THREAT VULNERABILITY PIC ](https://github.com/user-attachments/assets/5c2c0edd-0a37-4747-a39d-e556410a5a3d)&nbsp;&nbsp;
 
 **NOTES ON CYBER THREAT LANDSCAPE:**
 - Encompasses all potential dangers in a digital world. 
@@ -95,18 +89,16 @@ ___
 - Keeping up to date with the latest threats and vulnerabilities is essential for robust CS. 
 
 ---
----
----
 
 # 5. THREATS, VULNERABILITIES & RISKS:
+<img src="https://github.com/user-attachments/assets/06b59127-6b9f-4042-bd24-2181e2cc94d3" alt="NUMBER 3 THREATS VULNERABILITIES RISKS PICTURE" width="400" height="300">&nbsp;&nbsp;
+**EXAMPLE:**&nbsp;
+__***Window is open and a mosquito came in and bit you!***__&nbsp;
+**THREAT:** Mosquito (Malware or an attacker)  
+**VULNERABILITY:** Window (Weakness)  
+**RISK:** Disease from mosquito bite. (How much critical / sensitive data the attacker could take from organization)  
 
-**BASIC EXAMPLE:** 
-__*Window is open and a mosquito came in and bit you.*__
-**THREAT:** Mosquito (*Malware or an attacker*)
-**VULNERABILITY:** Window (*Weakness*)
-**RISK:** Disease from mosquito bite. (*How much critical/sensitive data the attacker could take from organization*)
-
-**RISK = THREAT (attacker) X VULNERABILITY (insecure site)**
+**RISK = THREAT (attacker) X VULNERABILITY (insecure site)**  
 
 **NOTES ON THREAT, VULNERABILITIES & RISKS:**
 - *__Threats__* are potential dangers in the digital world, like hackers and malware.
@@ -120,8 +112,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Effective CS aims to reduce risks to an acceptable level.
 - Regular **_risk_** assessments help organizations stay proactive and secure. 
 
----
----
 ---
 
 ### 6. CIA - CONFIDENTIALITY, INTEGRITY AND AVAILABILITY:
@@ -145,8 +135,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - __*CIA*__ helps prevent data breaches, tampering and downtime. 
 - Organizations must consider *__CIA__* when designing their CS strategies. 
 
----
----
 ---
 
 ### 7. DEFENSE IN DEPTH:
@@ -238,8 +226,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - It helps safeguard data and systems from various threats. 
 
 ---
----
----
 
 ## 8. DEVELOPING SECURITY POLICIES:
 
@@ -257,8 +243,6 @@ __*Window is open and a mosquito came in and bit you.*__
 
 <Insert triangular diagram here.>
 
----
----
 ---
 
 ## 9. USER AWARENESS TRAINING:
@@ -278,8 +262,6 @@ __*Window is open and a mosquito came in and bit you.*__
 
 <insert incident management workflow chart here>
 
----
----
 ---
 
 ## 10. INCIDENT RESPONSE & REPORTING:
@@ -305,8 +287,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - __*Incident response*__ is essential for minimizing harm and preventing future breaches. 
 
 ---
----
----
 
 ## 11. NETOWRK SECURITY FUNDAMENTALS:
 
@@ -323,8 +303,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Strong network _**security**_ helps safeguard sensitve info during transmission. 
 - It's a fundamental aspect of overall CS for organizations. 
 
----
----
 ---
 
 ## 12. FIREWALLS & INTRUSION DETECTION SYSTEMS:
@@ -344,8 +322,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - They're essential components of network security in modern organizations. 
 
 ---
----
----
 
 ## 13. WIRELESS NETWORK SECURITY:
 
@@ -360,8 +336,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Properly **_securing wireless networks_** is essential for overall CS.
 - It's especially important in workplaces and homes with *__wireless networks_**. 
 
----
----
 ---
 
 ## 14. ENCRYPTION & CRYPTOGRAPHY:
@@ -380,8 +354,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - __*Encryption*__ is crucial for protecting sensitive info in digital communication.
 - It's a fundamental element of CS, securing data both in transit and at rest. 
 
----
----
 ---
 
 ## 15. ANTI-VIRUS & ANTI-MALWARE:
@@ -413,8 +385,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - They are fundamental components of CS in today's digital world. 
 
 ---
----
----
 
 ## 16. ACCESS CONTROL & AUTHENTICATION:
 
@@ -433,8 +403,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Implementing these measures helps prevent data breaches overall CS strategies. 
 
 ---
----
----
 
 ## 17. CLOUD SECURITY:
 
@@ -451,8 +419,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Users must configure and use _**cloud services**_ securely. 
 - Ensuring **_cloud security_** is essential as more data moves to the cloud in the digital age. 
 
----
----
 ---
 
 ## 18. IoT-INTERNET OF THINGS SECURITY:
@@ -472,8 +438,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Protecting **_IoT devices_** enhances overall CS. 
 
 ---
----
----
 
 ## 19. CYBERSECURITY BEST PRACTICES:
 
@@ -492,8 +456,6 @@ __*Window is open and a mosquito came in and bit you.*__
 - Stay informed about the latest CS threats and trends.
 - Following these *__practices__* enhances your digital security and reduces the risk of Cyberattacks. 
 
----
----
 ---
 
 I HOPE THIS HELPS! 
