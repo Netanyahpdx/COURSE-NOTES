@@ -55,11 +55,10 @@ __***FREE COURSE, NO CERTIFICATE***__
 ---
 
 ## 3. THE IMPORTANCE OF CYBERSECURITY:
+<img src="https://github.com/user-attachments/assets/e13e0cea-b09d-46d0-bb07-a3bac5168beb" alt="number 3 importance of cs" width="450" height="450">&nbsp;&nbsp;
 
+  ![number 3 understanding cybersecurity](https://github.com/user-attachments/assets/19c00a02-6a5d-4dd8-ba29-44e045bdb20b)
 
-![number three importance of cs ](https://github.com/user-attachments/assets/e13e0cea-b09d-46d0-bb07-a3bac5168beb)
-
-  
   **NOTES ON THE IMPORTANCE OF CYBERSECURITY:**
 - **_CS_** is crucial for safeguarding digital info.
 - It protects against financial losses and damge to reputation.
@@ -74,7 +73,9 @@ __***FREE COURSE, NO CERTIFICATE***__
 ---
 
 ## 4. CYBER THREAT LANDSCAPE:
-![RISK THREAT VULNERABILITY PIC ](https://github.com/user-attachments/assets/5c2c0edd-0a37-4747-a39d-e556410a5a3d)&nbsp;&nbsp;
+
+<img src="https://github.com/user-attachments/assets/096e862d-6a9e-4d8c-867b-dda8a590ea12" alt="number 3 cyber threat landcape " width="450" height="300">&nbsp;&nbsp;
+
 
 **NOTES ON CYBER THREAT LANDSCAPE:**
 - Encompasses all potential dangers in a digital world. 
@@ -92,6 +93,7 @@ __***FREE COURSE, NO CERTIFICATE***__
 
 # 5. THREATS, VULNERABILITIES & RISKS:
 <img src="https://github.com/user-attachments/assets/06b59127-6b9f-4042-bd24-2181e2cc94d3" alt="NUMBER 3 THREATS VULNERABILITIES RISKS PICTURE" width="400" height="300">&nbsp;&nbsp;
+
 **EXAMPLE:**&nbsp;
 __***Window is open and a mosquito came in and bit you!***__&nbsp;
 **THREAT:** Mosquito (Malware or an attacker)  
@@ -99,6 +101,9 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 **RISK:** Disease from mosquito bite. (How much critical / sensitive data the attacker could take from organization)  
 
 **RISK = THREAT (attacker) X VULNERABILITY (insecure site)**  
+
+<img src="https://github.com/user-attachments/assets/5c2c0edd-0a37-4747-a39d-e556410a5a3d" alt="RISK THREAT VULNERABILITY PIC" width="600" height="350">&nbsp;&nbsp;
+
 
 **NOTES ON THREAT, VULNERABILITIES & RISKS:**
 - *__Threats__* are potential dangers in the digital world, like hackers and malware.
@@ -112,16 +117,17 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 - Effective CS aims to reduce risks to an acceptable level.
 - Regular **_risk_** assessments help organizations stay proactive and secure. 
 
+
 ---
 
 ### 6. CIA - CONFIDENTIALITY, INTEGRITY AND AVAILABILITY:
-
+![number 6 CIA triad](https://github.com/user-attachments/assets/0dedeee3-e334-4c15-8af0-7f33e6c02d9e)   
+  
 #### CIA TRIAD: 
 **(C) CONFIDENTIALITY:** Ensuring that info is accessible to only those who are authorized to have access to it. 
 **(I) INTEGRITY:** Safeguarding the accuracy and completeness of info and processing methods. 
 **(A) AVAILABILITY:** Ensuring that authorized users have access to info and assets when necessary.
 
-<INSERT DIAGRAM HERE>
 
 **NOTES ON THE CIA TRIAD:**
 - __*CIA*__ is a fundamental concept in CS. 
@@ -138,8 +144,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ### 7. DEFENSE IN DEPTH:
-
-<INSERT DIAGRAM HERE OF DID>
+![number 7 Defense In Depth ](https://github.com/user-attachments/assets/7b6cf882-a6cd-4bdf-aab4-9ddc22e56a93)
 
 **PERIMETER SECURITY:**
 - Perimeter IDS/IPS
@@ -228,6 +233,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 8. DEVELOPING SECURITY POLICIES:
+![number 8 ](https://github.com/user-attachments/assets/77187317-76eb-4363-975d-97b9035985a0)
 
 **NOTES ON DEVELOPING SECURITY POLICIES:**
 - **_Security policies_** are rules and guidelines for safeguarding data. 
@@ -247,6 +253,9 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 
 ## 9. USER AWARENESS TRAINING:
 
+![number 9 user awareness](https://github.com/user-attachments/assets/4371777e-5b2e-4c50-83b6-3957a3dad5e7)
+
+
 **NOTES ON USER AWARENESS TRAINING:**
 - **_User awareness training_** educates people about CS.
 - It teaches individuals to recognize and respond to security threats. 
@@ -265,6 +274,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 10. INCIDENT RESPONSE & REPORTING:
+![number 10 ir](https://github.com/user-attachments/assets/56603e9f-118b-4ae6-982e-91e4c6fb19ce)
 
 **INCIDENT RESPONSE 6 STEP PLAN:**
 1. PREPARATION
@@ -273,6 +283,9 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 4. ERADICATION
 5. RECOVERY 
 6. REVIEW
+
+![number 10b workflow](https://github.com/user-attachments/assets/6adad2af-de5c-4dd7-94d7-00f0476ad3a7)
+
 
 **NOTES ON INCIDENT RESPONSE & REPORTING**
 - **_Incident response_** is a plan for dealing with security breaches. 
@@ -288,9 +301,9 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 
 ---
 
-## 11. NETOWRK SECURITY FUNDAMENTALS:
+## 11. NETWORK SECURITY FUNDAMENTALS:
+![number 11 network security](https://github.com/user-attachments/assets/aa8b05fe-c793-41a6-a984-4b8f2c3c0042)
 
-<INSERT DIAGRAM HERE>
 
 **NOTES ON NETWORK SECURITY FUNDAMENTALS:**
 - **_Network security_** focuses on protecting data as it travels through networks.
@@ -306,8 +319,8 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 12. FIREWALLS & INTRUSION DETECTION SYSTEMS:
+![number 12 network intrusion](https://github.com/user-attachments/assets/5402a436-cd52-4c07-9bfd-f11bd85ada58)
 
-<INSERT DIAGRAM HERE>
 
 **NOTES ON FIREWALLAS & INTRUSTION DETECTION SYSTEMS:**
 - **_Firewalls_** are like digital guards for your network.
@@ -325,6 +338,8 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 
 ## 13. WIRELESS NETWORK SECURITY:
 
+
+
 **NOTES ON WIRELESS NETWORK SECURITY:**
 - **_Wireless network security_** focuses on securing WIFI connections.
 - **_WIFI networks_** are susceptible to unauthorized access if not properly protected.
@@ -340,7 +355,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 
 ## 14. ENCRYPTION & CRYPTOGRAPHY:
 
-<INSERT DIAGRAM HERE>
+![image](https://github.com/user-attachments/assets/865021c0-b48a-4904-88b9-52431aaddd11)
 
 **NOTES ON  ENCRYPTION & CRYPTOGRAPHY:**
 - **_Encryption_** is like a secret code for digital info.
@@ -358,7 +373,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 
 ## 15. ANTI-VIRUS & ANTI-MALWARE:
 
-**ANTI-MALWARE COMPATE TO ANTI-VIRUS SOFTWARE WITHOUT ADDED MALWARE REMOVAL TOOLS:**
+![number 15 compare anti virus and malware](https://github.com/user-attachments/assets/627dceb9-3797-447f-b4c2-d9141447b6bf)
 
 **ANTI-VIRUS:** 
 - Protects against viruses
@@ -387,8 +402,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 16. ACCESS CONTROL & AUTHENTICATION:
-
-<insert diagram>
+![number 16 access control](https://github.com/user-attachments/assets/b730aee4-8b2c-4d28-890d-3462b9c0c8b8)
 
 **NOTES ON ACCESS CONTROL & AUTHENTICATION:**
 - *__Access control_* manages who can access what in a digital system.
@@ -405,8 +419,8 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 17. CLOUD SECURITY:
+![number 17 cloud security](https://github.com/user-attachments/assets/888ebdbb-a7c7-4ce4-a07c-4dd149f70a9a)
 
-<insert diagram>
 
 - **_Cloud security_** is about safeguarding data stored in **_cloud services_**.
 - **_Cloud services_** include storage, applications, and computer power. 
@@ -422,6 +436,7 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 18. IoT-INTERNET OF THINGS SECURITY:
+![number 18 IOT](https://github.com/user-attachments/assets/7d26509f-2484-4fd7-9c29-9bace50dfdfc)
 
 
 
@@ -440,8 +455,8 @@ __***Window is open and a mosquito came in and bit you!***__&nbsp;
 ---
 
 ## 19. CYBERSECURITY BEST PRACTICES:
+![number 19 CS Best Practices](https://github.com/user-attachments/assets/5a56bd07-7d70-4f02-a2f9-b27da60add2a)
 
-<INSERT diagram>
 
 **NOTES ON CYBERESCURITY BEST PRACTICES NOTES:**
 - **_CS best practices_** are proven methods for staying safe online.
