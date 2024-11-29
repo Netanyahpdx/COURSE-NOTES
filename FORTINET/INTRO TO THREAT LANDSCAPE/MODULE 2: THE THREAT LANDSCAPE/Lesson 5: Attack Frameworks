@@ -1,0 +1,77 @@
+To better understand and defend against cyberattacks, it is helpful to examine the various frameworks that have
+been developed to classify and analyze them. These frameworks provide a structure for identifying the different
+stages of attack, discerning the different tactics used during those stages, analyzing their impact, and developing
+strategies for prevention and response.
+
+Attack frameworks were developed in response to cyberattacks that were more sophisticated and protracted than
+in the past. These types of attacks, which can involve extended periods of surveillance and planning before
+methodically attacking a targeted computer network, are often referred to as advanced persistent threats (APTs).
+While attack frameworks embody extensive knowledge about attackers’ tactics and techniques, they are more
+than a knowledge base. Rather, you should view attack frameworks as a toolbox for cybersecurity professionals to
+enhance an organization’s security posture.
+
+---
+
+## 2 EXAMPLES OF CYBERATTACK FRAMEWORKS: ##
+1. **LOCKHEED MARTIN'S CYBER KILL CHAIN**
+  -More widely used. Developed by Lockheed Martin in 2011. It's a 7 step model that describes the stages of a cyberattack, from the initial reconnaissance and weaponization of the attack method to the final exploitation and exfiltration of data. 
+
+2. **MITRE ATT&CK**
+  -The Mitre corporation published the adversaries  tactics, techniques, and common knowledge or MITRE
+ATT&CK guideline. The guideline classified and described cyberattacks and intrusions. So, like the Cyber Kill
+Chain, it will help you to understand the attacker’s methodology, but MITRE is more than that. 
+It is a constantly evolving resource that provides a common language and approach for understanding and mitigating cyberattacks.
+The matrix is organized into a series of "techniques" that describe specific tactics and methods used by attackers
+to compromise systems and steal or manipulate information. These techniques are grouped into categories based
+on the type of attack or activity being performed, such as "Initial Access", "Execution", and "Defense Evasion”.
+One of the key benefits of the MITRE ATT&CK matrix is that it provides a common language and framework for
+discussing and analyzing cyber threats. This allows organizations to communicate and coordinate their efforts to
+prevent and respond to attacks more effectively. The matrix also helps organizations to identify and prioritize the
+most critical threats and vulnerabilities by mapping them to the appropriate techniques and categories.
+The matrix is also a valuable resource for security professionals because it provides a comprehensive overview of
+the tactics, techniques, and procedures (TTPs) used by attackers. This allows security teams to better understand
+the methods and motivations of attackers, and to design and implement countermeasures to prevent or mitigate
+attacks more effectively.
+
+---
+
+##**LOCKHEED MARTIN'S CYBER KILL CHAIN:**##
+**1. RECONNAISSANCE:** The attacker gathers information about the target and its vulnerabilities.  
+This may involve using tools such as search engines, social media, and other open sources to gather intelligence about the target organization and its systems.
+**2. WEAPONIZATION:** The attacker creates a payload or exploit that can be delivered to the target.  
+This may involve creating malware or other malicious code, such as a virus or Trojan horse, and packaging it in a way that is difficult to detect. For example, this could be an innocuous-looking but infected Microsoft Word document that is intended to be delivered by way of a phishing email.
+**3. DELIVERY:** The attacker delivers the payload to the target. This may involve sending an
+email with a malicious attachment, or exploiting a vulnerability in a website to inject the payload into the target's
+system.
+**4. EXPLOITATION:** The attacker uses the payload to gain access to the target's systems or data. This may involve executing the payload to exploit a vulnerability in the target's software or operating system, or using the payload to gain access to the target's network.
+**5. INSTALLATION:** The attacker establishes a foothold within the target's systems.   
+This may involve installing a rootkit or other malicious software that allows the attacker to maintain access to the target's systems even if the initial payload is detected and removed.
+**6. COMMAND AND CONTROL:** The attacker establishes a means of communication with the compromised systems. This may involve setting up a command-and-control server or using other methods to communicate with the compromised systems remotely.
+**7. EXFILTRATION:** The attacker extracts the data or other assets that were the goal of the attack. This may involve copying sensitive data to a remote location or using the compromised systems to launch further attacks on other targets.
+  
+Lockheed Martin’s Kill Chain has done much to advance the understanding of the incremental stages of a
+cyberattack. However, it makes some assumptions that reduce its effectiveness. One major disadvantage of the
+Cyber Kill Chain is that it assumes that the origin of an attack is external to the network. Also, the kill chain
+methodology aims to reinforce traditional defense methods. Other cyberattack frameworks arose, in part, because
+of limitations in the Cyber Kill Chain.
+
+---
+
+## KEY TERMS: ##
+**PAYLOAD:**  Malicious code. Originally, it referred to the load carried by a truck, airplane or missile. 
+**ROOTKIT:** Software used by bad actors to gain control over a targeted computer or network.
+
+---
+
+##KNOWLEDGE CHECK##
+1. Match the 7 staged of Cyber Kill Chain
+  1. Reconnaissance
+  2. Weaponization
+  3. Delivery
+  4. Exploitation
+  5. Installation
+  6. Command and control
+  7. Exfiltration
+2. Which statement is an advantage of MITRE ATT&CK?
+Provides a language for understanding cyberattacks.
+
