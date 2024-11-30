@@ -1,0 +1,133 @@
+# LESSON 4: INSIDER THREAT #
+
+**INSIDER THREAT:** An individual or individuals who work for an organization or have authorized access to its networks or systems and who pose a physical threat or cyberthreat to the organization.
+Ex:
+-Current Employee
+-Former Employee
+-Contractor
+-Business Partner
+-Board Member
+-Imposter who gains access to sensitive information or network privileges. 
+
+Ways to combat: Employee awareness training. 
+The % of insider breaches vs external breaches reported by organizations varies considerably.
+For ex, 2022 Verizon Data Breach Investigations Report:
+20% of breaches were due to insiders, but other sources peg the number at 60% or higher. 
+The discrepency is likely due to how many insider threats are classified and reported. 
+
+---
+
+CATEGORIZING INSIDER THREATS
+**NEGLIGENT:** UNINTENTIONALLY ASSIST BAD ACTORS: Human error, poor judgement, or carelessness
+**MALICIOUS:** THOSE ON THE INSIDE WHO ACT MALICIOUSLY
+
+---
+---
+---
+
+## MALICIOUS ##
+
+---
+
+MALICIOUS INSIDERS AKA TURNCLOAKS ACTIONS: 
+- Espionage
+- Fraud
+- Intellectual property theft
+- Sabotage
+
+---
+
+**MALICIOUS INSIDER TYPES:**
+- **MOLES:** An outsider who has gained access to an organization's network (By posing as a vendor, partner, contractor or employee)
+    - Ex: EMILY WATSON WAS A MOLE
+- **COLLABORATORS:** Authorized users who work with a third party (competitor, nation state, organized criminal network, or individual)
+- **LONE WOLVES:** Harbor malicious intent. They work independently and without outside influence. 
+
+---
+
+**MALICIOUS INSIDER METHODS AND ATTACK VECTORS:**
+**PHYSICAL:**
+ - **TAILGATING / PIGGYBACKING:** A type of social engineering attack in which an authorized person gains physical access to a restricted area by following someone who is authorized. 
+ - **SHOULDER SURFING:** Using direct observation techniques (looking over someone's shoulder to get information) 
+ - **DUMPSTER DIVING:** Looks for information in someone else's garbage or recycle bin (Can also happen in a public area like a printer room, where confidential information is printed.)
+ - **EAVESDROPING:** Listening in on a conversation where confidential information is discussed. (Digitally, refers to network snooping or sniffing, and happens more frequently on wireless networks because they are more accessible.) 
+**DIGITAL:**
+- **SPEAR PHISHING:** A social engineering attack that uses email to target a specific individual or group with the intent of stealing confidential information or profiting in some way. Generally, the individual or group has a lower profile than those targeted in a whaling attack.(An IT instead of a CEO)
+- **WHALING:** A form of phishing attack that uses email to target a high ranking person or group. (Executive officer within an organization)
+- **SMISHING:** A type of attack using SMS or texting. It can be spam and distributed to everyone, or can be directed to a specific group or person. 
+- **VISHING:** A phishing type of social engineering attack that takes place over a telephone or mobile device. Like smishing, it can be spam and sent to everyone, or it can be directed at a specific person or group.
+- **PRETEXTING:** An attack that involves a situation or pretext, devised to invoke an emotional response in the target, such as a bad actor pretending to be a friend or loved one in need. 
+- **WATERING HOLE:** A form of cyberattack that targets groups of users by infecting websites that they commonly visit. Or the bad actor may form relationships through social media sites with persons associated with the targeted organization. 
+
+---
+
+**MALICIOUS INSIDER EXAMPLE:**
+In 2020 a former executive of a company stole trade secrets from its self driving car division and handed them to his new employer.  
+Sentenced to 18 months in prison. 
+
+---
+---
+---
+
+## NON MALICIOUS ##
+
+**NON-MALICIOUS INSIDER TYPES:**
+- **PAWN:** Manipulated by the bad actor
+- Ex: Emily Williams attack team successfully ran a spear phishing attack against the head of information security who opened the card. 
+
+- **GOOF:** Deliberately careless, doesn't harbor any malicious intent. Could be described as arrogant, ignorant or incompetent. 
+
+METHODS USED:
+
+
+**MALICIOUS INSIDER THREAT INDICATORS** (context is everything... if an employee's behavior seems to change without cause...)
+- If an insider appears to be dissatisfied with the organization
+- Appears to hold a grudge against the organization
+- Starts to take on more tasks with excessive enthusiasm
+- Routine violations
+- Open contempt of organization policies
+- Attempts to circumvent security
+
+Anomalous activity at the network level is a digital indicator. Several activities are trackable, such as:
+- Activity at unusual times, such as logging into the network at 4 AM, or always working late.
+- Volume of traffic, such as transferring unusual amounts of data within the network.
+- Type of activity, such as accessing resources that are atypical or not needed for the insider’s job.
+
+You should also be alerted to digital activities, such as:
+- Repeated requests for access to systems not relevant to their job function.
+- Using unauthorized devices, such as USB drives.
+- Network crawling and deliberate searches for sensitive information.
+- Emailing sensitive information outside the organization.
+
+Your behavior as a person working for an organization can either jeopardize or enhance security. To help make
+your organization more secure, follow this list of recommendations:
+- Learn your organization’s security policies.
+- Do not take shortcuts around security protocols.
+- Do not leave login credentials exposed.
+- Do not allow tailgating.
+- Do not store confidential digital documents unencrypted or leave physical documents unsecured.
+- Do not disable endpoint security and controls. Do not share proprietary or confidential information with unauthorized
+individuals.
+- Patch your devices as soon as OS and software updates are available.
+
+---
+
+There are measures that you can take to protect your organization’s assets from internal threats. First, identify
+your organization’s critical assets, both logical and physical. These include networks, systems, confidential data,
+facilities, and people. Rank and prioritize each asset and identify the current state of each asset’s protection. By
+prioritizing the assets, you can focus on securing the most important assets first.
+Tools like machine learning (ML) applications can help analyze the data stream and prioritize the most relevant
+alerts. You can use digital forensics and analytics tools, such as user and event behavior analytics (UEBA) to help
+detect, analyze, and alert the security team to any potential insider threats. User and device behavior analytics
+can establish a baseline for normal data access activity, while database activity monitoring can help identify policy
+violations.
+Deploy tools that monitor user activity as well as aggregate and correlate activity information from multiple
+sources. Deception software, such as FortiDeceptor by Fortinet, establishes traps to attract malicious insiders and
+tracks their actions to better understand their intentions. The information gathered by a honeypot solution can be
+shared with other intelligence to improve detection and to mitigate attacks and breaches.
+Define, document, and disseminate the organization’s security policies. Then, provide training to those who work
+for your organization, and follow up with testing to ensure comprehension. This prevents ambiguity and
+establishes a foundation for enforcement. They should recognize their responsibility to comply and respect the
+organization’s security policies.
+This is a good segue to the final recommendation: Promote a culture of security awareness. Promoting a securityaware culture is key to mitigating the insider threat. Instilling the right beliefs and attitudes combats negligence
+and reduces the opportunity for malicious behavior.
