@@ -191,3 +191,7 @@ And end entities generate keys, submit CSRs, validate certificates, and use keys
 All of these entities carry out their functions in accordance with policy, which is prescribed by PKI authorities.
 
 ---
+
+**KNOWLEDGE CHECK:**
+
+![image](https://github.com/user-attachments/assets/261b33d9-7988-48f4-8257-e10b7791c1c7)
