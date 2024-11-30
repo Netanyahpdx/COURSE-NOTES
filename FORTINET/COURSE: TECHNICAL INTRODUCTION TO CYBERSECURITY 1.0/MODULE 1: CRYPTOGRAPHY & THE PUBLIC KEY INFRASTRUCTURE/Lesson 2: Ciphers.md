@@ -101,14 +101,14 @@ TEXT = BINGO
 
 - **STREAM CIPHERS**:  
 Encrypt a stream of plain text data, one bit / byte at a time. Stream ciphers are faster than block ciphers.  
-   
-Common stream ciphers that exist today are:
-    - **FISH**  
+    
+Common stream ciphers that exist today are:  
+    - **FISH**   
     - **RCS**  
      
 - **BLOCK CIPHERS**:   
-Block ciphers break the plain text into blocks for encryption.
-The size of the blocks is determined by the size of the key.
+Block ciphers break the plain text into blocks for encryption.  
+The size of the blocks is determined by the size of the key.  
 If the key is 256 bits, then the blocks to be encrypted will also be 256 bits.    
 If the size of the message is one megabyte, then the message would be divided into multiple blocks, each one 256 bits in size.    
     
@@ -117,3 +117,10 @@ Common block ciphers that exist today are:
     - **3DES**  
     - **(AES) ADVANCED ENCRYPTION STANDARD**   
     - **Blowfish**   
+
+---
+
+**KNOWLEDGE CHECK:**  
+WHICH 2 STATEMENTS ARE TRUE?  
+- The block cipher chunks the data into blocks before encrypting them
+- The stream cipher is faster than the block cipher
