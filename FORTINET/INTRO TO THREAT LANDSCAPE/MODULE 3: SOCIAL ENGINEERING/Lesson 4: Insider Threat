@@ -1,5 +1,9 @@
 # LESSON 4: INSIDER THREAT #
 
+---
+
+## THE INSIDERS ##
+
 **INSIDER THREAT:** An individual or individuals who work for an organization or have authorized access to its networks or systems and who pose a physical threat or cyberthreat to the organization.
 Ex:
 -Current Employee
@@ -9,7 +13,6 @@ Ex:
 -Board Member
 -Imposter who gains access to sensitive information or network privileges. 
 
-Ways to combat: Employee awareness training. 
 The % of insider breaches vs external breaches reported by organizations varies considerably.
 For ex, 2022 Verizon Data Breach Investigations Report:
 20% of breaches were due to insiders, but other sources peg the number at 60% or higher. 
@@ -77,7 +80,9 @@ Sentenced to 18 months in prison.
 
 - **GOOF:** Deliberately careless, doesn't harbor any malicious intent. Could be described as arrogant, ignorant or incompetent. 
 
-METHODS USED:
+---
+---
+---
 
 
 **MALICIOUS INSIDER THREAT INDICATORS** (context is everything... if an employee's behavior seems to change without cause...)
