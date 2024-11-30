@@ -1,4 +1,4 @@
-# WEB APPLICATION SECURITY
+# UNDERSTANDING THE IMPORTANCE OF WEB APPLICATION SECURITY
 
 Web application security is crucial in today's digital world. With the increasing reliance on web applications, it is vital to secure them to avoid severe consequences like data breaches, financial losses, reputational damage, and legal issues.
 
